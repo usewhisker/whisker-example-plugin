@@ -1,0 +1,28 @@
+.whisker-license-wrap .description {
+	margin-bottom: 16px;
+	max-width: 760px;
+}
+
+.whisker-license-card {
+	max-width: 760px;
+	padding: 20px;
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 6px;
+}
+
+.whisker-license-actions {
+	display: flex;
+	gap: 8px;
+	margin-top: 8px;
+	margin-bottom: 16px;
+}
+
+.whisker-license-meta {
+	margin: 0;
+	padding-left: 18px;
+}
+
+.whisker-license-meta li {
+	margin-bottom: 6px;
+}
